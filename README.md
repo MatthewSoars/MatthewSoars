@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatthewSoars
 - 👀 I’m interested in Software Dev
 - 🌱 I’m currently learning Python
-- 📫 How to reach me matthewsoars2004@gmail.com
+- 📫 How to reach me matthewsoars@hotmail.co.uk
 
 Portfolio - https://matthewsoars.github.io/
 
